@@ -48,4 +48,4 @@ $$\theta_t = \theta_{t-1} - \frac{\alpha \cdot \hat{v}_t}{\sqrt{\hat{m}_t} + \ep
 
 
 
-@Adityadikonda10
+[Adityadikonda10](https://github.com/Adityadikonda10)
